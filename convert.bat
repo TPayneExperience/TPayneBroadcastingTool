@@ -1,0 +1,1 @@
+pyuic4 Broadcaster_helper.ui -o Broadcaster_helper_raw.py
